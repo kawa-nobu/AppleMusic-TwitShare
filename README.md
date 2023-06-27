@@ -1,0 +1,2 @@
+# AppleMusic-TwitShare
+AppleMusicをTwitter等へシェアするリンクを作成できます。
