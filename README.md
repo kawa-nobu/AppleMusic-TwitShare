@@ -1,6 +1,7 @@
 # AppleMusic-TwitShare
 AppleMusicをTwitter等へシェアするリンクを作成できます。
 
+ツイートにAppleMusicのリンク直張りしたらTwitterCardにアルバムアートとかが出たり、出なかったりと不安定だったので作ってやろうと思いました。
 個人で使うために作成。
 
 レンタルサーバに置いている状態なので、近日kw-dev.workから消すかも。
